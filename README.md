@@ -10,14 +10,8 @@
       <table>
         <tr>
           <th>Azure</th>
-          <th>Power Apps</th>
-          <th>Automation</th>
-          <th>Applications</th>
         </tr>
         <tr>
-          <td></td>
-          <td></td>
-          <td></td>
           <td></td>
         </tr>
       </table>
