@@ -3,18 +3,39 @@
   </head>
   <body>
     <div>
-      <h1>About Me</h1>
-      <p> As someone yearning to be a software developer, I find myself in a state of constant fascination with technology and its endless possibilities. To me, coding is not just about syntax strings; it's a form of expression, a way to bring ideas to life. I spend countless hours learning new programming languages and concepts, each line of code bringing me closer to translating my thoughts into tangible solutions. There's a thrill in problem-solving, debugging that elusive error, and watching my code finally work as intended. This journey is challenging, marked by moments of doubt and frustration, but each hurdle overcome is a step forward in my quest.</p>
+      <h1>CSM by trade, Developer by passion</h1>
+      <p> I combine a background in Cloud Computing and Technical Implementation with a growing expertise in software development. My career has been defined by solving technical problems for customers; now, I’m moving "upstream" to build the tools that solve those problems. I focus on <strong>Python</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>C#</strong>, <strong>.NET</strong> and <strong>Cloud Architecture</strong>. I am currently looking for opportunities to apply my unique blend of client empathy and technical logic to a full-time engineering role.</p>
         <br>
-        <h2> 📍 Interests</h2>
-      <table style="width:350; height: 50;">
-        <tr>
-          <th>Azure</th>
-        </tr>
-        <tr>
-          <td></td>
-        </tr>
-      </table>
+        <h2> 🎯 <strong>Projects</strong></h2>
+      <section>
+        <h3>Azure Functions Projects</h3>
+        <ul>
+          <p>Sample Text </p>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
+      </section>
+      <section>
+        <h3>Cloud Architecture Projects</h3>
+        <ul>
+          <p>Sample Text</p>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
+      </section>
+      <section>
+        <h3>Artificial Intelligence (AI) Projects</h3>
+        <ul>
+          <p>Sample Text</p>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
+      </section>
     </div>
   </body>
 </html> 
+
+
