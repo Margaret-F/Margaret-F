@@ -9,12 +9,22 @@
         <h2> 📍 Interests</h2>
       <table>
         <tr>
-          <td>Azure</td>
-          <td>Power Apps</td>
-          <td>Power Platform</td>
-          <td>Dynamics 365</td>
-          <td>Software Development</td>
-          <td>Microsoft 365 Administration</td>
+          <th>Azure</th>
+          <th>Power Apps</th>
+          <th>Automation</th>
+          <th>Applications</th>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
         </tr>
       </table>
     </div>
